@@ -45,7 +45,7 @@ redirect_from:
 
 ## 📝 Publications
 - *2024.12* The crucial role of vegetation cover in shaping East Asian summer monsoon changes during the late Pliocene warm period.(with editor)\
-Co-authors: *Ruoxiao Gu (First author)*, Xiangyu Li (\textit{Corresponding Author}), Bo Liu, Hua Li, Zhongshi Zhang (\textit{Corresponding Author}), Yong Liu.
+Co-authors: **Ruoxiao Gu (First author)**, Xiangyu Li (Corresponding Author), Bo Liu, Hua Li, Zhongshi Zhang (Corresponding Author), Yong Liu.
 
 ## 🎖️ Honors and Awards
 - *2024.12* Graduate Study 1st-Scholarship 🌱
