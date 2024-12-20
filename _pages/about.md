@@ -21,26 +21,28 @@ redirect_from:
 - Hi! I am Ruoxiao Gu, a master’s student specializing in Climate Change and Earth System Modeling at China University of Geosciences, Wuhan. 🌏
 - My research focuses on climate simulation and the dynamics of global monsoon systems.I'm passionate about programming and data visualization and deeply interested in the climatic impacts of ocean circulation and global sea ice variability. 🌊
 - In the future, I plan to pursue a Ph.D. to further explore the vast field of climate science and contribute to climate prediction and adaptation efforts. 🐶
+- This is my [CV](https://github.com/Grxytjl/RuoxiaoGuHomepage.github.io/images/RenderCV_EngineeringResumes_Theme.pdf).👀
+
 <pdf= src="images/RenderCV_EngineeringResumes_Theme.pdf">
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+<!-- # 📝 Publications  -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> -->
 
 ## 🎖 Honors and Awards
 - *2024.12* Graduate Study 1st-Scholarship 🌱
@@ -59,8 +61,8 @@ redirect_from:
 
 ## 🍖 Hobbies
 - *Hiking*: I think hiking is the best cure for life's exhaustion.🌋
-<img src="images/hiking1.jpg" width="100%">\
-<img src="images/hiking2.jpg" width="100%">
+<img src="images/hiking1.jpg" width="80%">\
+<img src="images/hiking2.jpg" width="80%">
 - *Dogs*: Best friends.\
 <img src="images/dog-dalian.jpg" width="80%">\
 <img src="images/dog-Lushan.jpg" width="80%">
