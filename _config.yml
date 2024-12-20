@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Ruoxiao Gu"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "Grxytjl/RuoxiaoGu-Homepage.github.io"
+# google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# # SEO Related
+# google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+# bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+# baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Ruoxiao Gu"
+  avatar           : "images/android-chrome-512x512.jpg"
+  bio              : "China University of Geosciences, Wuhan"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "RUOXIAOGU@cug.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Gu-Ruoxiao"
   uri              :
   bitbucket        :
   codepen          :
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  CV               : "docs/CV.pdf"
 
 # Reading Files
 include:
