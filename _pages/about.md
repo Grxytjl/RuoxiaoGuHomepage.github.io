@@ -48,7 +48,7 @@ redirect_from:
 - *2022.12* Graduate Study 1st-Scholarship 🌱
 
 ## 📖 Educations
-- *2022.09 - now(expected in 2025.06)*, MSc Climate change and Earth system modelling, China University of Geosciences, Wuhan
+- *2022.09 - now (expected in 2025.06)*, MSc Climate change and Earth system modelling, China University of Geosciences, Wuhan
 - *2018.09 - 2022.06*, BSc Atmospheric Science, China University of Geosciences, Wuhan
 
 ## 💻 Technical Skills
@@ -71,9 +71,4 @@ redirect_from:
 </div><img src="images/Photography1.jpg" width="100%"></div>
 </div><img src="images/Photography2.jpg" width="100%"></div>
 </div><img src="images/Photography3.jpg" width="100%"></div>
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. --> -->
