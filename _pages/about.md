@@ -61,11 +61,9 @@ redirect_from:
 - *Hiking*: I think hiking is the best cure for life's exhaustion.🌋
 <img src="images/hiking1.jpg" width="80%">
 <img src="images/hiking2.jpg" width="80%">
-
 - *Dogs*: Best friends.
 <img src="images/dog-dalian.jpg" width="80%">
 <img src="images/dog-Lushan.jpg" width="80%">
-
 - *Photography*
 <img src="images/Photography1.jpg" width="80%">
 <img src="images/Photography2.jpg" width="80%">
