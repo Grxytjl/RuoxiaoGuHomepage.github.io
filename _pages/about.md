@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ruoxiao Gu"
+title: " "
 excerpt: ""
 author_profile: true
 redirect_from: 
