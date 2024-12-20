@@ -7,17 +7,17 @@
 
 # Site Settings
 title                    : "Ruoxiao Gu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "Grxytjl/RuoxiaoGu-Homepage.github.io"
+description              : "A master's student at China University of Geosciences, Wuhan."
+repository               : "Grxytjl/RuoxiaoGuHomepage.github.io"
 # google_scholar_stats_use_cdn : true
 
-# google analytics
-# google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google analytics
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
-# # SEO Related
-# google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-# bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-# baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# SEO Related
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Grxytjl"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-5505-7004"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

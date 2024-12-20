@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Abot Me
+## intro 🐧
 - Hi! I am Ruoxiao Gu, a master’s student specializing in Climate Change and Earth System Modeling at China University of Geosciences, Wuhan. 🌏
 - My research focuses on climate simulation and the dynamics of global monsoon systems.I'm passionate about programming and data visualization and deeply interested in the climatic impacts of ocean circulation and global sea ice variability. 🌊
 - In the future, I plan to pursue a Ph.D. to further explore the vast field of climate science and contribute to climate prediction and adaptation efforts. 🐶
@@ -42,34 +42,34 @@ redirect_from:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+## 🎖 Honors and Awards
 - *2024.12* Graduate Study 1st-Scholarship 🌱
 - *2023.12* Graduate Study 1st-Scholarship 🌱
 - *2022.12* Graduate Study 1st-Scholarship 🌱
 
-# 📖 Educations
+## 📖 Educations
 - *2022.09 - now(expected in 2025.06)*, MSc Climate change and Earth system modelling, China University of Geosciences, Wuhan
 - *2018.09 - 2022.06*, BSc Atmospheric Science, China University of Geosciences, Wuhan
 
-# 💻 Technical Skills
+## 💻 Technical Skills
 - *NCL*
 - *Python*
 - *R*
 - *Climate Models*
 
-# 🍖 Hobbies
+## 🍖 Hobbies
 - *Hiking*: I think hiking is the best cure for life's exhaustion.🌋
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hiking1.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hiking2.jpg' alt="sym" width="100%"></div></div>
-
+<div><img src="images/hiking1.jpg" width="100%"><div>
+<div><img src="images/hiking2.jpg" width="100%"><div>
+<!-- <div><img src='images/hiking2.jpg' alt="sym" width="100%"><div> -->
 - *Dogs*: Best friends.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/dog-dalian.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/dog-Lushan.jpg' alt="sym" width="100%"></div></div>
+</div><img src="images/dog-dalian.jpg" width="100%"></div>
+</div><img src="images/dog-Lushan.jpg" width="100%"></div>
 
 - *Photography*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Photography1.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Photography2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Photography3.jpg' alt="sym" width="100%"></div></div>
+</div><img src="images/Photography1.jpg" width="100%"></div>
+</div><img src="images/Photography2.jpg" width="100%"></div>
+</div><img src="images/Photography3.jpg" width="100%"></div>
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
