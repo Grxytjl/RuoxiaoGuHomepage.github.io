@@ -43,7 +43,11 @@ redirect_from:
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-## 🚩 Honors and Awards
+## 📝 Publications
+- *2024.12* The crucial role of vegetation cover in shaping East Asian summer monsoon changes during the late Pliocene warm period.(with editor)\
+Co-authors: *Ruoxiao Gu (First author)*, Xiangyu Li (\textit{Corresponding Author}), Bo Liu, Hua Li, Zhongshi Zhang (\textit{Corresponding Author}), Yong Liu.
+
+## 🎖️ Honors and Awards
 - *2024.12* Graduate Study 1st-Scholarship 🌱
 - *2023.12* Graduate Study 1st-Scholarship 🌱
 - *2022.12* Graduate Study 1st-Scholarship 🌱
