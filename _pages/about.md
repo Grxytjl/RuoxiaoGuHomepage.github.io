@@ -62,6 +62,7 @@ redirect_from:
 <div><img src="images/hiking1.jpg" width="100%"><div>
 <div><img src="images/hiking2.jpg" width="100%"><div>
 <!-- <div><img src='images/hiking2.jpg' alt="sym" width="100%"><div> -->
+
 - *Dogs*: Best friends.
 </div><img src="images/dog-dalian.jpg" width="100%"></div>
 </div><img src="images/dog-Lushan.jpg" width="100%"></div>
