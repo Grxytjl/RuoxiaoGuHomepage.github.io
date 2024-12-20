@@ -23,10 +23,9 @@ redirect_from:
 - In the future, I plan to pursue a Ph.D. to further explore the vast field of climate science and contribute to climate prediction and adaptation efforts. 🐶
 - This is my [CV](https://github.com/Grxytjl/RuoxiaoGuHomepage.github.io/images/RenderCV_EngineeringResumes_Theme.pdf).👀
 
-<pdf= src="images/RenderCV_EngineeringResumes_Theme.pdf">
-<!-- # 🔥 News
+<!-- <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 📝 Publications  -->
 
@@ -42,9 +41,9 @@ redirect_from:
 </div>
 </div> -->
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> -->
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-## 🎖 Honors and Awards
+## 🚩 Honors and Awards
 - *2024.12* Graduate Study 1st-Scholarship 🌱
 - *2023.12* Graduate Study 1st-Scholarship 🌱
 - *2022.12* Graduate Study 1st-Scholarship 🌱
