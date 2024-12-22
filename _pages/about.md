@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-#### intro 🐧
+#### Intro 🐧
 - Hi! I am Ruoxiao Gu, a master’s student specializing in Climate Change and Earth System Modeling at China University of Geosciences, Wuhan. 🌏
 - My research focuses on climate simulation and the dynamics of global monsoon systems.I'm passionate about programming and data visualization and deeply interested in the climatic impacts of ocean circulation and global sea ice variability. 🌊
 - In the future, I plan to pursue a Ph.D. to further explore the vast field of climate science and contribute to climate prediction and adaptation efforts. 🐶
