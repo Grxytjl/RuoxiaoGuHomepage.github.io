@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## intro 🐧
+#### intro 🐧
 - Hi! I am Ruoxiao Gu, a master’s student specializing in Climate Change and Earth System Modeling at China University of Geosciences, Wuhan. 🌏
 - My research focuses on climate simulation and the dynamics of global monsoon systems.I'm passionate about programming and data visualization and deeply interested in the climatic impacts of ocean circulation and global sea ice variability. 🌊
 - In the future, I plan to pursue a Ph.D. to further explore the vast field of climate science and contribute to climate prediction and adaptation efforts. 🐶
@@ -43,26 +43,26 @@ redirect_from:
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-## 📝 Publications
+#### 📝 Publications
 - *2024.12* The crucial role of vegetation cover in shaping East Asian summer monsoon changes during the late Pliocene warm period.(with editor)\
 Co-authors: **Ruoxiao Gu (First author)**, Xiangyu Li (Corresponding Author), Bo Liu, Hua Li, Zhongshi Zhang (Corresponding Author), Yong Liu.
 
-## 🎖️ Honors and Awards
+#### 🎖️ Honors and Awards
 - *2024.12* Graduate Study 1st-Scholarship 🌱
 - *2023.12* Graduate Study 1st-Scholarship 🌱
 - *2022.12* Graduate Study 1st-Scholarship 🌱
 
-## 📖 Educations
+#### 📖 Educations
 - *2022.09 - now (expected in 2025.06)*, MSc Climate change and Earth system modelling, China University of Geosciences, Wuhan
 - *2018.09 - 2022.06*, BSc Atmospheric Science, China University of Geosciences, Wuhan
 
-## 💻 Technical Skills
+#### 💻 Technical Skills
 - *NCL*
 - *Python*
 - *R*
 - *Climate Models*
 
-## 🍖 Hobbies
+#### 🍖 Hobbies
 - *Hiking*: I think hiking is the best cure for life's exhaustion.🌋
 <img src="images/hiking1.jpg" width="80%">\
 <img src="images/hiking2.jpg" width="80%">
